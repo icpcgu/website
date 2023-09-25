@@ -3271,8 +3271,8 @@ label {
 ================================================== */
 .error-page .error-code h2 {
   display: block;
-  font-size: 200px;
-  line-height: 200px;
+  font-size: 15vw;
+  line-height: 1.2;
   color: #12284c;
   margin-bottom: 20px;
 }
